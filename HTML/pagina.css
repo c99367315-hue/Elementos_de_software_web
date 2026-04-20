@@ -1,0 +1,18 @@
+body {
+    background-color: #f3f4f5;
+    ul {
+        column-count: 2;
+    }
+    h1 {
+        color: black;
+        fount-size: 24px;
+    }
+    h2 {
+        fount-size: 30px;
+    }
+    p {
+        color: #757575;
+        fount-size: 18px;
+        fount-family: Georgia;x
+    }
+}
