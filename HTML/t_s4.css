@@ -1,0 +1,44 @@
+/*Punto 2*/
+.example1 {
+    width: 100%;
+    height: 100px;
+    display: inline;
+}
+.example2 {
+    width: 100%;
+    height: 100px;
+    display: inline-block;
+}
+.example3 {
+    width: 100%;
+    height: 100px;
+    display: block;
+}
+.example4 {
+    width: 100%;
+    height: 100px;
+    display: none;
+}
+
+/*Punto 3*/
+.example2-img {
+    width: 100px;
+    height: 100px;
+}
+/*Punto 4*/
+.imagen1 {
+    width: 200px;
+    height: 200px;
+}
+/*Punto 5*/
+.example5 {
+    width: 100%;
+    height: 100px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSKXABhQUwW5E44XncU8J5LFkal3uTegv4OQ&s');
+    background-repeat: no-repeat;
+    padding: 10px;
+    border: 5px;
+    box-sizing: border-box;
+    background-position: center;
+    overflow: auto;
+}
